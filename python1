@@ -2,4 +2,5 @@ Class Employee()
   def __init__(self,name,age):
     self.name=name
     self.age=age
-    self.email1=email1
+    self.email=email
+
